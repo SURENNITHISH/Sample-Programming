@@ -1,0 +1,14 @@
+              //Example Program//
+
+a= 1500;
+ 
+ b=2200;
+ 
+ c=5400;
+ 
+ z=a+b;
+ y=b+c;
+ x=a+b+c;
+ 
+ 
+ 
